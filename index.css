@@ -1,0 +1,109 @@
+body {
+    background-color: #3A98B9;
+    color: #FFF1DC;
+    margin: 7px;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+h2{ color:#0A2647
+}
+hr {
+    width: 5%;
+    border-style: none;
+    border-top: dotted;
+    border-color:  #E8D5C4;
+    border-width: 5px;
+   
+}
+h1{ 
+color: #0A2647;
+}
+
+.student{
+    color: #0A2647;
+    padding-left: 30%;
+    padding-right: 40%;
+    position: relative;
+}
+
+
+
+img{ margin: auto;}
+
+
+  /*CLASS*/
+
+
+.top{
+
+    background-color: #FFF1DC;
+    padding: 7px;
+    padding-left: 43%;
+    padding-right: 43%;
+    text-align: center;
+    position: relative;
+
+
+}
+
+.middle{
+    
+
+}
+
+
+
+.bottom{
+    width: 500px;
+    height: 300px;
+
+}
+
+.last{
+    margin-left: 550px;
+    margin-top: -400px;
+    position: relative;
+    left: 20px;
+
+}
+
+.hire{
+
+ position: absolute;
+ left: 200px;
+ top: 200px;
+
+}
+a:link{
+text-decoration: none;
+}
+a:visited{
+text-decoration: none;
+}
+a:hover{
+    color:aliceblue;
+}
+a:active{
+    text-decoration: none;
+}
+
+button{
+    background-color:#FFF1DC ;
+    border-color: #FFF1DC;
+    font-size: 30px;
+    color: #0A2647;
+    
+}
+.contacthire{
+    color: #fff1dc ;
+    font-size: 20px;
+}
+
+.arrow{
+    width: 20px;
+    height: 20px;
+}
+.contactme{
+    position: absolute;
+    margin: 50px 50px 50px
+
+}
